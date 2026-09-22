@@ -15,7 +15,7 @@ My goal is to develop strong GitHub skills, contribute to open source projects, 
 - [x] Connect a local repository to GitHub
 - [x] Push commits to a remote repository
 - [x] Create and use a `.gitignore`
-- [ ] Learn Markdown
+- [x] Learn Markdown
 - [ ] Work with branches
 - [ ] Create Pull Requests
 - [ ] Contribute to open source
@@ -33,6 +33,10 @@ git log
 git push
 git pull
 ```
+## 🧠 What I Learned
+- **Git** controls local versions while **GitHub** host and amplify collab.
+- git diff allows to revise changes before prep them.
+- Good commits help to tell the project history. 
 
 ## 🚀 Next Steps
 
