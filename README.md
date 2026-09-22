@@ -34,9 +34,9 @@ git push
 git pull
 ```
 ## 🧠 What I Learned
-- **Git** controls local versions while **GitHub** host and amplify collab.
-- git diff allows to revise changes before prep them.
-- Good commits help to tell the project history. 
+- **Git** controls versions locally, while **GitHub** hosts repositories and expands collaboration.
+- `git diff` allows me to review changes before staging them.
+- Good commits help tell the story of a project.
 
 ## 🚀 Next Steps
 
