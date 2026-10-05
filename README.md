@@ -37,6 +37,7 @@ git pull
 - **Git** controls versions locally, while **GitHub** hosts repositories and expands collaboration.
 - `git diff` allows me to review changes before staging them.
 - Good commits help tell the story of a project.
+- A branch allows me to work on changes without modifying the `main` branch directly.
 
 ## 🚀 Next Steps
 
