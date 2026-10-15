@@ -32,6 +32,10 @@ git commit
 git log
 git push
 git pull
+git branch
+git branch -a
+git branch -vv
+git switch
 ```
 ## 🧠 What I Learned
 - **Git** controls versions locally, while **GitHub** hosts repositories and expands collaboration.
